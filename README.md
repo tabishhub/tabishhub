@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, My name is Tabish</h1>
-- <h3 align="center"> I am currently working on my PhD on mathematical modeling, analysis and computation at the Maxwell Institute for Mathematical Sciences, University of Edinburgh and Heriot-Watt University. I am a part of MAC-MIGS 2022 cohort here. My research interests are but not restricted to:
+- <h3 align="center"> I am currently working on my PhD in mathematical modeling, analysis and computation at the Maxwell Institute for Mathematical Sciences, University of Edinburgh and Heriot-Watt University. I am a part of MAC-MIGS 2022 cohort here. My research interests are but not restricted to:
  Data-driven algorithms for science and engineering | ML for dynamical systems | Neural networks | Protein folding </h3>
 
  <!-- <img src="https://github.com/tabishhub/tabishhub/blob/main/banner.png" alt="Banner" width="100%"/> -->
