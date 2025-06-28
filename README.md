@@ -8,9 +8,8 @@
 
 ### 🧠 About Me
 
-- 🔬 I’m currently working on **learning dynamical systems from data**
-- 🌱 I’m exploring **Koopman operator theory**, **Sparse modeling**, and **protein folding**
-- 🧪 I'm interested in bridging machine learning and dynamical systems
+- 🔬 I’m currently working on **learning dynamical systems from data**, exploring the **Koopman operator theory**, **system identification techniques**, and **protein folding**
+- 🧪 Interested in bridging machine learning and dynamical systems
 - 🎓 Researcher in Applied Mathematics
 
 ---
@@ -29,10 +28,8 @@
 
 <p align="left">
   <a href="mailto:mohd.tabish1297@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="[https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohammad-tabish-936495196/)"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mohammad-tabish-936495196/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <!-- Future idea: add personal website link (create using github?) -->
 ---
-
-> "Mathematics is the language with which God has written the universe." – Galileo Galilei
