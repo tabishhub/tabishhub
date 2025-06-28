@@ -17,7 +17,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,jax,pytorch,jupyter,git,latex" />
+  <img src="https://skillicons.dev/icons?i=python,jupyter,git,latex" />
 </p>
 
 <!-- Future idea: add TensorFlow badge here and also github stats -->
